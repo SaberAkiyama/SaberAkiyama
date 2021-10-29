@@ -1,7 +1,7 @@
-List of version update:
-
-SA EdgeSys: 6.0.1
-SA Roundline Animation: 3.0.0
-SA ShapIcon: 4.0.3
-SA Suite: 1.8.4
-SA Weather Cast: 1.1.2
+List of version update:</br>,
+<br></br>,
+<br>SA EdgeSys: 6.0.1</br>,
+<br>SA Roundline Animation: 3.0.0</br>,
+<br>SA ShapIcon: 4.0.3</br>,
+<br>SA Suite: 1.8.4</br>,
+<br>SA Weather Cast: 1.1.2</br>
