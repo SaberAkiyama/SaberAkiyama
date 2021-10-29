@@ -1,7 +1,7 @@
 List of version update:
 
-SA EdgeSys: "6.0.1", Date: "May 25th";
-SA Roundline Animation: "3.0.0", Date: "Oct 5th";
-SA ShapIcon: "4.0.3", Date: "Oct 26th";
-SA Suite: "1.8.4", Date: "Mar 23rd";
-SA Weather Cast: "1.1.2", Date: "Jul 24th"
+SA EdgeSys: "6.0.1", Date: "May 25th, 2021";
+SA Roundline Animation: "3.0.0", Date: "Oct 5th, 2021";
+SA ShapIcon: "4.0.3", Date: "Oct 26th, 2021";
+SA Suite: "1.8.4", Date: "Mar 23rd, 2021";
+SA Weather Cast: "1.1.2", Date: "Jul 24th, 2021"
