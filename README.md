@@ -15,4 +15,4 @@ I have very bad news for all the users. My sister bought back her laptop and I d
 
 I don't have money or anything else like a lonely person. If I want a giveaway by someone else, it might be a chance to work for my projects.
 
-If you have any questions, let me know on my [Discord server](https://discord.gg/mQ2BTwK9jD), if you want.
+If you have any questions, let me know in direct message on Discord, click "Add Friend", type ```SaberAkiyama#7001``` *(or copy and paste on username)* and click/touch "Send Friend Request".
